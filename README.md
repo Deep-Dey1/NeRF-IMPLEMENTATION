@@ -19,9 +19,43 @@ Download the datasets from the following Google Drive link:
 
 [Dataset Download Link](https://drive.google.com/drive/folders/18bwm-RiHETRCS5yD9G00seFIcrJHIvD-?usp=sharing)
 
+### Dataset
+
+Download the datasets from the following Google Drive link:
+
+[Dataset Download Link](https://drive.google.com/drive/folders/18bwm-RiHETRCS5yD9G00seFIcrJHIvD-?usp=sharing)
+
+### Running the Model
+
+The main script for running the model is `nerf.py`. To train the model, use the following command:
+
+```bash
+python nerf.py
+```
+### Running the Model
+
+Training the model requires approximately 5 to 8 hours on an RTX 2080 Ti GPU. The final results will be stored in the `novel_views` directory.
+
+### Data Preprocessing
+
+The datasets were generated and preprocessed using the code from `kwea123/nerf_pl`. The training hyperparameters were also retrieved from `kwea123/nerf_pl`.
+
+### References
+
+This project includes code and ideas from the following repositories:
+
+- [MaximeVandegar's GitHub](https://github.com/MaximeVandegar)
+- [kwea123's GitHub](https://github.com/kwea123)
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 ### Prerequisites
 
 To run this project, you'll need to install the required dependencies. First, download the necessary packages using the `requirements.txt` file:
 
 ```bash
 pip install -r requirements.txt
+```
