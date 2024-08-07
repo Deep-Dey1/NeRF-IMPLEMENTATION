@@ -48,6 +48,11 @@ This project includes code and ideas from the following repositories:
 - [MaximeVandegar's GitHub](https://github.com/MaximeVandegar)
 - [kwea123's GitHub](https://github.com/kwea123)
 
+### Some Results
+
+Here are some of the output Novel Views genrated from this script.
+
+![Novel View 1](novel_views/img_0_hf_6.png)
 
 
 
