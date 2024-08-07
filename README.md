@@ -14,3 +14,8 @@ To run this project, you'll need to install the required dependencies. First, do
 
 ```bash
 pip install -r requirements.txt
+
+
+## CUDA and PyTorch
+
+To leverage GPU acceleration with CUDA, ensure you download the correct version of PyTorch compatible with your device's CUDA version. Visit the official PyTorch website and follow the instructions to install the appropriate version.
