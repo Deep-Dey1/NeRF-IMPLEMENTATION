@@ -56,6 +56,9 @@ Here are some of the output Novel Views genrated from this script.
 ![Novel View 1](novel_views/img_10_hf_6.png)
 ![Novel View 1](novel_views/img_20_hf_6.png)
 ![Novel View 1](novel_views/img_30_hf_6.png)
+
+Final Result
+
 ![Novel View 1](novel_views/novel_views.gif)
 
 
