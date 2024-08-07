@@ -8,12 +8,6 @@ NeRF is a method for representing 3D scenes based on 2D images. It can generate 
 
 ## Getting Started
 
-### Prerequisites
-
-To run this project, you'll need to install the required dependencies. First, download the necessary packages using the `requirements.txt` file:
-
-```bash
-pip install -r requirements.txt
 
 ### CUDA and PyTorch
 
@@ -24,3 +18,10 @@ To leverage GPU acceleration with CUDA, ensure you download the correct version 
 Download the datasets from the following Google Drive link:
 
 [Dataset Download Link](https://drive.google.com/drive/folders/18bwm-RiHETRCS5yD9G00seFIcrJHIvD-?usp=sharing)
+
+### Prerequisites
+
+To run this project, you'll need to install the required dependencies. First, download the necessary packages using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
