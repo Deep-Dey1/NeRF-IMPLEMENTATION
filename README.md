@@ -14,3 +14,12 @@ To run this project, you'll need to install the required dependencies. First, do
 
 ```bash
 pip install -r requirements.txt
+### CUDA and PyTorch
+
+To leverage GPU acceleration with CUDA, ensure you download the correct version of PyTorch compatible with your device's CUDA version. Visit the [official PyTorch website](https://pytorch.org/get-started/locally/) and follow the instructions to install the appropriate version.
+
+### Dataset
+
+Download the datasets from the following Google Drive link:
+
+[Dataset Download Link](https://drive.google.com/drive/folders/18bwm-RiHETRCS5yD9G00seFIcrJHIvD-?usp=sharing)
