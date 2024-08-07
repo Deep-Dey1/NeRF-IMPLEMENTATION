@@ -48,9 +48,6 @@ This project includes code and ideas from the following repositories:
 - [MaximeVandegar's GitHub](https://github.com/MaximeVandegar)
 - [kwea123's GitHub](https://github.com/kwea123)
 
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
