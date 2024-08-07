@@ -1,6 +1,16 @@
-# NeRF-IMPLEMENTATION
-Intro
-Link of the dataset : https://drive.google.com/drive/folders/18bwm-RiHETRCS5yD9G00seFIcrJHIvD-?usp=sharing
-The datasets were generated with the code from kwea123/nerf_pl.
-The training hyperparameters were retrieved from kwea123/nerf_pl.
-it will tke aprox 5 to 8 hours to train on rtx 2080 ti
+# NeRF Model Implementation
+
+This project implements the Neural Radiance Fields (NeRF) model, which creates or predicts a 3D scene of an object using some 2D images.
+
+## Overview
+
+NeRF is a method for representing 3D scenes based on 2D images. It can generate high-quality views of complex 3D scenes by optimizing a continuous volumetric scene function using a sparse set of 2D images. The original NeRF paper can be found [here](https://arxiv.org/abs/2003.08934).
+
+## Getting Started
+
+### Prerequisites
+
+To run this project, you'll need to install the required dependencies. First, download the necessary packages using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
